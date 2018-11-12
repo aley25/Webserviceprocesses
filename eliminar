@@ -1,0 +1,5 @@
+
+
+git commit -m "elimino archivos innecesarios"	
+git rm -r proyecto
+git push
